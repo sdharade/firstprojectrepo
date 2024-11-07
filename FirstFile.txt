@@ -1,8 +1,4 @@
 Hello World of Git Project  
 Chanig the file
-<<<<<<< HEAD
-234
-dfdfdsf
-=======
 tyuuiyuiyuiyu
->>>>>>> c170f64456103dccc603577ec3cba334fd5134c1
+now addinjg additional comments
